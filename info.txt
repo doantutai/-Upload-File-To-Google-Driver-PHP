@@ -1,15 +1,11 @@
-  ##########################################
-  ##                                      ##
-  ##                                      ##
-  ##       https://hoaiphamit.com         ##
-  ##        Password: HOAIPHAMIT          ##
-  ##                                      ##
-  ##                                      ##
-  ##########################################
-
-
--> Info: Pham Van Hoai - Hoai Pham IT 
-
--> Facebook: http://fb.com/hoaiphamit
-
--> Youtube: bit.ly/hoaiphamitSubscribe
+﻿Share Code Upload File To Google Driver PHP
+Chức năng
+Upload file lên google driver
+Get link Fshare
+Get link Google Driver
+Download video Youtube
+Download video Facebook
+HƯỚNG DẪN CÀI ĐẶT
+Upload code trong thư mục Code UpFile Google Drive\Code lên server
+Import file SQL trong thư mục Code UpFile Google Drive\payadsco_UPDOWSF.sql vào database
+Config tại file config.php
