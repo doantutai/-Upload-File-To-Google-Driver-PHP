@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^([a-zA-Z0-9_-]+)$ download.php?id=$1
+RewriteRule ^([a-zA-Z0-9_-]+)/$ download.php?id=$1
+php_value post_max_size 15000M
+php_value upload_max_filesize 15000M

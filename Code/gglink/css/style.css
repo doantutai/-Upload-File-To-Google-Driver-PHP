@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,700&subset=vietnamese');
+a, a:link{text-decoration: none;}
+body{
+	background-color: #F7F7F7;
+	font-family: 'Cabin', sans-serif;
+	font-size: 15px;
+    line-height: 1.5;
+}
+
+.content{
+	max-width: 1000px;
+	margin: auto;
+}
+.head{
+	text-align: center;
+	margin-top: 10px;
+}
+.head img{
+	max-width: 180px;
+}
+.head h1{
+	font-size: 24px;
+	background: #337af2;
+	max-width: 360px;
+	margin: auto;
+	border-radius: 5px;
+	padding: 5px 15px;
+	color: white;
+	font-weight: bold;
+}
+.head span{
+	font-size: 14px;
+	background-color: #ffffff;
+    color: #337af2;
+	border-radius: 15px;
+	padding: 1px 5px;
+}
+.content_get{
+	margin-top: 40px;
+}
+.content_get h2{
+	font-size: 16px;
+}
+.input_form{
+	margin: 0;
+}
+
+.p_text{
+	background-color: #5CB85C;
+	color: white;
+	border-radius: 5px;
+	margin-top: 15px !important;
+	padding: 9px;
+	font-size: 12px;
+	max-width: 455px;
+	margin: auto;
+}
+.loa{
+	height: 15px;
+	width: 100%;
+}
+
+.name_download{
+	float: left;
+	width: 50%
+}
+.loading_con{
+	float: right;
+}
+.navbar {
+	margin-bottom: 0px;
+	}
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    box-shadow: 0px 0px 55px rgba(0, 0, 0, 0.1);
+	border: 0;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 10px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.navbar-nav>li>a {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.footer{
+    width:100%;
+    min-height:30px;    
+    background-color:#e7e7e7;
+	color:#333f;
+	bottom: 0;
+}
+.footerf {
+	text-align: center;
+    padding: 8px;
+}
+.footerf a{
+	color:#333;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
